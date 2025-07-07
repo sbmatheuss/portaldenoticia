@@ -34,10 +34,7 @@ section header {
   overflow: hidden;
   position: relative;
 
-  &::before {
-
-  }
-
+  
   figcaption {
     position: absolute;
     bottom: 0;
